@@ -9,7 +9,7 @@ detection from a single image. Is this case we cannot use most
 of the recent deep learning methods. In this project I use the most recent
 pb (probability of boundary) boundary detection algorithm and compare it to [Canny](https://ieeexplore.ieee.org/document/4767851) and [Sobel](https://en.wikipedia.org/wiki/Sobel_operator) baselines. The following shows the overall baseline.
 
-![Repo List](fig1.jpg)
+![Repo List](fig1.png)
 
 ## Filter bank implementation
 I’m implementing three kind of filter banks; oriented deriva-
@@ -27,7 +27,7 @@ cluster it into 16 groups. Also, The concept of the color map
 is to capture the color changes. Then cluster it into 16 clusters.
 Illustration of the generated map are shown in following figures.
 
-![Repo List](fig2.jpg)
+![Repo List](fig2.png)
 
 
 
