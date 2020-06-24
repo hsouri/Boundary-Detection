@@ -1,18 +1,12 @@
 #!/usr/bin/env python
 
 """
-CMSC733 Spring 2019: Classical and Deep Learning Approaches for
-Geometric Computer Vision
-Homework 0: Alohomora: Phase 1 Starter Code
+Boundary Detection Wrapper
 
 
-Author(s): 
-Nitin J. Sanket (nitin@terpmail.umd.edu)
-PhD Candidate in Computer Science,
-University of Maryland, College Park
-
-Chahat Deep Singh (chahat@terpmail.umd.edu) 
-PhD Student in Computer Science,
+Author: 
+Hossein Souri (hsouri@terpmail.umd.edu)
+PhD Student in Electrical and Computer Engineering,
 University of Maryland, College Park
 """
 
