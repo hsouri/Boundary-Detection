@@ -59,37 +59,6 @@ figure to cpmpare Sobel, Canny, and pb-lite results.
 ![Repo List](fig4.png)
 
 
-
-
-# Code Instructions
-
-## Model training
-
-To train a new model first choose a network among all networks that are implemented in Network.py. You have 5 options: 
-SimpleModel, ImprovedModel, ResNetModel, DenseNetModel, and ResNextModel. Then change line 134 of Train.py:
-
-
-```shell
-prLogits, prSoftMax = YourModel(ImgPH, ImageSize, MiniBatchSize)
-```
-Change "YourModel" with one of the above models.
-
-- To start Training:
-
-```shell
-python Train.py --ExpName YourExpName
-```
-Note: Change YourExpName with any name you want!
-```
-# Model Testing
-
-You can test your model on 1000 images:
-
-```shell
-python Test.py
-``` 
-
-
 # Appendix
 
 Note1: For the full project description see: https://cmsc733.github.io/2019/hw/hw0/
