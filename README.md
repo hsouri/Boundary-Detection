@@ -9,6 +9,8 @@ detection from a single image. Is this case we cannot use most
 of the recent deep learning methods. In this project I use the most recent
 pb (probability of boundary) boundary detection algorithm and compare it to [Canny](https://ieeexplore.ieee.org/document/4767851) and [Sobel](https://en.wikipedia.org/wiki/Sobel_operator) baselines.
 
+*** Filter bank implementation
+
 
 
 
