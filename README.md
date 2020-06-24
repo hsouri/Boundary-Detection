@@ -59,6 +59,8 @@ figure to cpmpare Sobel, Canny, and pb-lite results.
 ![Repo List](fig4.png)
 
 
+# Appendix
 
-
+Note1: For the full project description see: https://cmsc733.github.io/2019/hw/hw0/
+Note2: For the full documentation click on [here]()
 
