@@ -63,4 +63,4 @@ figure to cpmpare Sobel, Canny, and pb-lite results.
 
 Note1: For the full project description see: https://cmsc733.github.io/2019/hw/hw0/
 
-Note2: For the full documentation click on [here]()
+Note2: For the full documentation click on [here](https://github.com/hsouri/Boundary-Detection/blob/master/Report.pdf)
