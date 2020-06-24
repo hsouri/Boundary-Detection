@@ -29,6 +29,33 @@ Illustration of the generated map are shown in following figures.
 
 ![Repo List](fig2.png)
 
+Using half-disc masks along with the Chi-square
+distance, we can generate the gradient map for all texture,
+brightness, and color information of the images. the generated
+gradients are shown in the following.
+
+![Repo List](fig3.png)
+
+## Boundary detection
+The final step to get the boundaries is to combine informa-
+tion from the features with Sobel or Canny edge detection by
+computing the dot product between the average of gradients
+and the average of Canny ans Sobel.
+
+# Analysis
+
+The result is not as clear as the Canny baseline, however,
+it’s better than the Sobel base line. In some degree, the Pb-
+lite is better than Canny since it does not have false positive
+results. We can see a lot of incorrect edges in the Canny which
+are not presented in the Pb-lite. It should be also mentioned
+that it’s a possible that I don’t chose the best filter bank to do
+it, even though I tried different sizes and filters. you can see
+Fig to cpmpare Sobel, Canny, and pb-lite results.
+
+
+
+
 
 
 
