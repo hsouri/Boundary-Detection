@@ -1,7 +1,7 @@
 # Boundary-Detection
 
 
-![Repo List](fig0.png)
+![Repo List](fig00.png)
 
 # Introduction
 
