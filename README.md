@@ -1,5 +1,8 @@
 # Boundary-Detection
 
+
+![Repo List](fig0.png)
+
 # Introduction
 
 Boundary detection and image classification are two well
@@ -50,10 +53,10 @@ lite is better than Canny since it does not have false positive
 results. We can see a lot of incorrect edges in the Canny which
 are not presented in the Pb-lite. It should be also mentioned
 that it’s a possible that I don’t chose the best filter bank to do
-it, even though I tried different sizes and filters. you can see
-Fig to cpmpare Sobel, Canny, and pb-lite results.
+it, even though I tried different sizes and filters. you can see the following
+figure to cpmpare Sobel, Canny, and pb-lite results.
 
-
+![Repo List](fig4.png)
 
 
 
